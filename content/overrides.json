@@ -1,0 +1,8 @@
+{
+  "@jupyterlab/completer-extension:manager": {
+    "continuousHinting": true
+  },
+  "@jupyterlab/completer-extension:inline-completer": {
+    "enabled": true
+  }
+}

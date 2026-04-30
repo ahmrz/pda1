@@ -1,0 +1,18 @@
+{
+  "@jupyterlab/apputils-extension:themes": {
+    "overrides": {
+      "code-font-size": "24px",
+      "ui-font-size1": "16px",
+      "content-font-size1": "24px"
+    }
+  },
+  "@jupyterlab/completer-extension:manager": {
+    "continuousHinting": true
+  },
+  "@jupyterlab/notebook-extension:tracker": {
+    "codeCellConfig": {
+      "fontSize": 24,
+      "lineHeight": 1.5
+    }
+  }
+}
